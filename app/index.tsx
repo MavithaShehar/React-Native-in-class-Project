@@ -18,8 +18,8 @@ const EmailForm = () => {
       <View style={styles.navbar}>
         <Link href="/index" style={styles.navLink}>Home</Link>
         <Link href="/details" style={styles.navLink}>Details</Link>
-        <Link href="/details" style={styles.navLink}>Gallery</Link>
-        <Link href="/details" style={styles.navLink}>Camara</Link>
+        <Link href="/picker" style={styles.navLink}>Gallery</Link>
+        <Link href="/camara" style={styles.navLink}>Camara</Link>
       </View>
 
       <Text style={styles.centeredText}>Shehar Mavitha</Text>

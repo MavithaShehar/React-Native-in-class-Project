@@ -14,7 +14,7 @@ export default function RootLayout() {
       }}>
       <Stack.Screen name="index" />
       <Stack.Screen name="details" />
-      <Stack.Screen name="gallery" />
+      <Stack.Screen name="picker" />
       <Stack.Screen name="camara" />
     </Stack>
   );
